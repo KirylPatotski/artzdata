@@ -11,7 +11,8 @@
                             "job": "DBA",
                             "addressContact": {
                                 "address": "123 Database St, IT City, USA",
-                                "phoneNumber": "555-123-4567"
+                                "phoneNumber": "555-123-4567",
+                                "email": "example@dba.com"
                             },
                             "description": "Expert in managing databases and ensuring data integrity.",
                             "link": "https://www.dbaprofessional.com",
@@ -23,7 +24,8 @@
                             "job": "Database Admin",
                             "addressContact": {
                                 "address": "456 Creative Ave, Design City, USA",
-                                "phoneNumber": "555-987-6543"
+                                "phoneNumber": "555-987-6543",
+                                "email": "example@janesmithdesigns.com"
                             },
                             "description": "Experienced graphic designer specializing in branding and digital art.",
                             "link": "https://www.janesmithdesigns.com",
@@ -40,7 +42,8 @@
                             "job": "Photographer",
                             "addressContact": {
                                 "address": "789 Shutter St, Photo Town, USA",
-                                "phoneNumber": "555-456-7890"
+                                "phoneNumber": "555-456-7890",
+                                "email": "example@dba.com"
                             },
                             "description": "Professional photographer capturing moments that last a lifetime.",
                             "link": "https://www.alexjohnsonphotos.com",
@@ -63,7 +66,8 @@
                             "job": "DBA",
                             "addressContact": {
                                 "address": "123 Database St, IT City, USA",
-                                "phoneNumber": "555-123-4567"
+                                "phoneNumber": "555-123-4567",
+                                 "email": "example@dba.com"
                             },
                             "description": "Expert in managing databases and ensuring data integrity.",
                             "link": "https://www.dbaprofessional.com",
@@ -75,7 +79,8 @@
                             "job": "Database Admin",
                             "addressContact": {
                                 "address": "456 Creative Ave, Design City, USA",
-                                "phoneNumber": "555-987-6543"
+                                "phoneNumber": "555-987-6543",
+                                "email": "example@dba.com"
                             },
                             "description": "Experienced graphic designer specializing in branding and digital art.",
                             "link": "https://www.janesmithdesigns.com",
@@ -92,7 +97,8 @@
                             "job": "Photographer",
                             "addressContact": {
                                 "address": "789 Shutter St, Photo Town, USA",
-                                "phoneNumber": "555-456-7890"
+                                "phoneNumber": "555-456-7890",
+                                "email": "example@dba.com"
                             },
                             "description": "Professional photographer capturing moments that last a lifetime.",
                             "link": "https://www.alexjohnsonphotos.com",
