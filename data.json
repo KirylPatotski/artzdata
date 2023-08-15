@@ -1,11 +1,11 @@
 {
-    "categories": [
+    "category": [
         {
             "name": "IT",
-            "subcategories": [
+            "subcategory": [
                 {
                     "name": "Databases",
-                    "entries": [
+                    "entry": [
                         {
                             "name": "Database Administrator",
                             "job": "DBA",
@@ -34,7 +34,7 @@
                 },
                 {
                     "name": "Software",
-                    "entries": [
+                    "entry": [
                         {
                             "name": "Alex Johnson",
                             "job": "Photographer",
@@ -54,10 +54,10 @@
         
         {
             "name": "Law",
-            "subcategories": [
+            "subcategory": [
                 {
                     "name": "Lawyers",
-                    "entries": [
+                    "entry": [
                         {
                             "name": "Dr. Franz Müller",
                             "job": "DBA",
@@ -86,7 +86,7 @@
                 },
                 {
                     "name": "Notary",
-                    "entries": [
+                    "entry": [
                         {
                             "name": "Alex Zimmerman",
                             "job": "Photographer",
