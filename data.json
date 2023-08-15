@@ -1,0 +1,109 @@
+{
+    "categories": [
+        {
+            "name": "IT",
+            "subcategories": [
+                {
+                    "name": "Databases",
+                    "entries": [
+                        {
+                            "name": "Database Administrator",
+                            "job": "DBA",
+                            "addressContact": {
+                                "address": "123 Database St, IT City, USA",
+                                "phoneNumber": "555-123-4567"
+                            },
+                            "description": "Expert in managing databases and ensuring data integrity.",
+                            "link": "https://www.dbaprofessional.com",
+                            "youtubeVideoLink": "https://www.youtube.com/watch?v=dba123",
+                            "imageUrl": "https://kirylpatotski.github.io/blog/images/minsk/0.jpg"
+                        },
+                        {
+                            "name": "Jane Smith",
+                            "job": "Database Admin",
+                            "addressContact": {
+                                "address": "456 Creative Ave, Design City, USA",
+                                "phoneNumber": "555-987-6543"
+                            },
+                            "description": "Experienced graphic designer specializing in branding and digital art.",
+                            "link": "https://www.janesmithdesigns.com",
+                            "youtubeVideoLink": "https://www.youtube.com/watch?v=xyz789",
+                            "imageUrl": "https://kirylpatotski.github.io/blog/images/minsk/1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "name": "Software",
+                    "entries": [
+                        {
+                            "name": "Alex Johnson",
+                            "job": "Photographer",
+                            "addressContact": {
+                                "address": "789 Shutter St, Photo Town, USA",
+                                "phoneNumber": "555-456-7890"
+                            },
+                            "description": "Professional photographer capturing moments that last a lifetime.",
+                            "link": "https://www.alexjohnsonphotos.com",
+                            "youtubeVideoLink": "https://www.youtube.com/watch?v=pqr456",
+                            "imageUrl": "https://kirylpatotski.github.io/blog/images/minsk/2.jpg"
+                        }        
+                    ]
+                }
+            ]
+        },
+        
+        {
+            "name": "Law",
+            "subcategories": [
+                {
+                    "name": "Lawyers",
+                    "entries": [
+                        {
+                            "name": "Dr. Franz Müller",
+                            "job": "DBA",
+                            "addressContact": {
+                                "address": "123 Database St, IT City, USA",
+                                "phoneNumber": "555-123-4567"
+                            },
+                            "description": "Expert in managing databases and ensuring data integrity.",
+                            "link": "https://www.dbaprofessional.com",
+                            "youtubeVideoLink": "https://www.youtube.com/watch?v=dba123",
+                            "imageUrl": "https://www.example.com/images/dba.jpg"
+                        },
+                        {
+                            "name": "John Mayer",
+                            "job": "Database Admin",
+                            "addressContact": {
+                                "address": "456 Creative Ave, Design City, USA",
+                                "phoneNumber": "555-987-6543"
+                            },
+                            "description": "Experienced graphic designer specializing in branding and digital art.",
+                            "link": "https://www.janesmithdesigns.com",
+                            "youtubeVideoLink": "https://www.youtube.com/watch?v=xyz789",
+                            "imageUrl": "https://kirylpatotski.github.io/blog/images/minsk/3.jpg"
+                        }
+                    ]
+                },
+                {
+                    "name": "Notary",
+                    "entries": [
+                        {
+                            "name": "Alex Zimmerman",
+                            "job": "Photographer",
+                            "addressContact": {
+                                "address": "789 Shutter St, Photo Town, USA",
+                                "phoneNumber": "555-456-7890"
+                            },
+                            "description": "Professional photographer capturing moments that last a lifetime.",
+                            "link": "https://www.alexjohnsonphotos.com",
+                            "youtubeVideoLink": "https://www.youtube.com/watch?v=pqr456",
+                            "imageUrl": "https://kirylpatotski.github.io/blog/images/zittau/0.JPG"
+                        }        
+                    ]
+                }
+            ]
+        }
+    ]
+}
+]
+}
